@@ -1,2 +1,1 @@
-# wtf-solidity
-Learn Solidity from WTF Academy
+# Learn Solidity from WTF Academy
